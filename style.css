@@ -19,11 +19,21 @@ padding: 24px 0;
 width: 18%;
 
 }
+
+.cabeçalho-lista-item{
+  display: inline-block;
+  font-size: 24px;
+  margin: 0 24px;
+
+
+}
+
+
  .escola-imagem{ 
  width: 25%;
 
  }
-  .escola-div{
+  .escola{
 background-image: linear-gradient(#424e61,#4ebfe9);
 color: white;
 display: flex;
@@ -31,9 +41,12 @@ justify-content: center;
 align-items: center;
 padding: 24px;
  }
-.escola-div-conteudo{
- width: 35;
-}
+
+ .escola-div-conteudo{
+width: 35%;
+
+ }
+
 .escola-titulo{
     padding: 24px 0%;
 }
